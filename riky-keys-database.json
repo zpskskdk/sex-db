@@ -4,9 +4,10 @@
       "token": "RIIKYY_LCIJ-FVSU-82FJ",
       "createdAt": 1773367905233,
       "expiresAt": null,
-      "used": false,
-      "ip": null
+      "used": true,
+      "ip": "180.243.33.249",
+      "hwid": "cb3fa1c60cbb90fd92b96e70b3c6aac2434a7e703e94a1c6a0221857cfc917c1",
+      "firstUsed": 1773369838029
     }
-  ],
-  "lastBackup": 1773367905969
+  ]
 }
