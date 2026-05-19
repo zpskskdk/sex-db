@@ -28,6 +28,14 @@
       "hwid": "245080cbb3298887938c824deedeef8d913292814cbe20a066e06c957f392304",
       "number": "6285820229344",
       "firstUsed": 1779182068424
+    },
+    {
+      "token": "RIIKYY_NCDW-4DNZ-6R2C",
+      "createdAt": 1779229506006,
+      "expiresAt": 1779315906006,
+      "used": false,
+      "ip": null
     }
-  ]
+  ],
+  "lastBackup": 1779229506633
 }
