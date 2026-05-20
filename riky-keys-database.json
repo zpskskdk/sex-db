@@ -43,9 +43,11 @@
       "token": "RIIKYY_GNCZ-63YH-CL8K",
       "createdAt": 1779239428046,
       "expiresAt": 1779325828047,
-      "used": false,
-      "ip": null
+      "used": true,
+      "ip": "180.243.33.15",
+      "hwid": "245080cbb3298887938c824deedeef8d913292814cbe20a066e06c957f392304",
+      "number": "62895385661900",
+      "firstUsed": 1779239663976
     }
-  ],
-  "lastBackup": 1779239428652
+  ]
 }
